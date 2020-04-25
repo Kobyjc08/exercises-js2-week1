@@ -7,6 +7,4 @@ var kitten = {
     isFemale: true,
     furColour: "brown"
 };
-
-// YOUR CODE HERE
-
+console.log(kitten)
